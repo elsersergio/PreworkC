@@ -3,3 +3,17 @@ body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+header{
+    -webkit-box-shadow: 10px 10px 18px -16px rgba(97,97,97,1);
+-moz-box-shadow: 10px 10px 18px -16px rgba(97,97,97,1);
+box-shadow: 10px 10px 18px -16px rgba(97,97,97,1);
+background-color: rgba(179,220,237,1);
+padding: 0.5rem;
+color: rgba(73,155,234,1);
+}
+
+section{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
