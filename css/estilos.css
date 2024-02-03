@@ -17,3 +17,19 @@ section{
     border: 1px solid gray;
     border-radius: 10px;
 }
+
+footer{
+    color: grey;
+    background-color: rgb(222, 242, 222);
+    font-weight: lighter;
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    border-radius: 1rem;
+    margin-top: 4px;
+}
+ footer svg{
+    width: 1rem;
+ }
